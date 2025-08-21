@@ -91,7 +91,7 @@ class Demo1
 
         // @ 控制只需要使用一个/  将字符串按照原格式输出
 
-        //calculation + - * / %
+        //calculation + - * / % 二元运算符
         //exe 
         int a = 100;
         int b = 20;
@@ -131,10 +131,52 @@ class Demo1
 
         // 类型不兼容  使用 convert 功能转换
         string srt = "123";
-        double d = Convert.ToDouble(s);
-        
+        double l = Convert.ToDouble(s);
 
 
+        Console.WriteLine("Enter a numer");
+        //string strNumber = Console.ReadLine();
+        l = Convert.ToDouble(Console.ReadLine());
+        Console.WriteLine(l * 2);
+        Console.ReadKey();
 
+        // ++ and --  一元运算符 优先级更高
+        // 最终的结果都是加1， ++ 在后，先运算在加1. ++ 在前，先加1再运算
+        int num = 10;
+        num++;
+        num--;
+
+        //int result = 10 + num++;  //result = 20 num = 11
+        //int result = 10 + ++num;    // result = 21 num =11
+
+        int i = 5;
+        int j = i++ + ++i * 2 + --i + i++;
+        // j = 5 + 7*x + 6 +6 = 14+12+5 = 31 i =7
+
+        //> < >= <= == != 
+        // += -= *= /+ %= || &&
+
+        //year jugement 
+        int year = Convert.ToInt32(Console.ReadLine());
+        if ((year % 400 == 0) || (year % 4 == 0 && year % 100 != 0))
+        {
+            Console.WriteLine(b);
+        }
+        else 
+        { 
+            Console.WriteLine("not this year");
+        }
+
+        // if else exe
+        Console.WriteLine("Please enter your password");
+        int password = Convert.ToInt32(Console.ReadLine());
+        while (password != 8888) {
+            Console.WriteLine("please enter currect one");
+            password = Convert.ToInt32(Console.ReadLine());
+            if (password == 8888) { 
+                Console.WriteLine("currect");
+                Console.ReadKey();
+            }
+        }
     }
 }

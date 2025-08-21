@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\ForLoop\bin\Debug\net9.0\ForLoop.exe
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\ForLoop\bin\Debug\net9.0\ForLoop.deps.json
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\ForLoop\bin\Debug\net9.0\ForLoop.runtimeconfig.json
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\ForLoop\bin\Debug\net9.0\ForLoop.dll
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\ForLoop\bin\Debug\net9.0\ForLoop.pdb
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\ForLoop\obj\Debug\net9.0\ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\ForLoop\obj\Debug\net9.0\ForLoop.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\ForLoop\obj\Debug\net9.0\ForLoop.AssemblyInfo.cs
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\ForLoop\obj\Debug\net9.0\ForLoop.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\ForLoop\obj\Debug\net9.0\ForLoop.sourcelink.json
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\ForLoop\obj\Debug\net9.0\ForLoop.dll
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\ForLoop\obj\Debug\net9.0\refint\ForLoop.dll
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\ForLoop\obj\Debug\net9.0\ForLoop.pdb
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\ForLoop\obj\Debug\net9.0\ForLoop.genruntimeconfig.cache
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\ForLoop\obj\Debug\net9.0\ref\ForLoop.dll

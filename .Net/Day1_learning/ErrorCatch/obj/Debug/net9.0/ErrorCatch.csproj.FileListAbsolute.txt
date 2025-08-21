@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\ErrorCatch\bin\Debug\net9.0\ErrorCatch.exe
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\ErrorCatch\bin\Debug\net9.0\ErrorCatch.deps.json
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\ErrorCatch\bin\Debug\net9.0\ErrorCatch.runtimeconfig.json
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\ErrorCatch\bin\Debug\net9.0\ErrorCatch.dll
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\ErrorCatch\bin\Debug\net9.0\ErrorCatch.pdb
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\ErrorCatch\obj\Debug\net9.0\ErrorCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\ErrorCatch\obj\Debug\net9.0\ErrorCatch.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\ErrorCatch\obj\Debug\net9.0\ErrorCatch.AssemblyInfo.cs
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\ErrorCatch\obj\Debug\net9.0\ErrorCatch.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\ErrorCatch\obj\Debug\net9.0\ErrorCatch.sourcelink.json
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\ErrorCatch\obj\Debug\net9.0\ErrorCatch.dll
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\ErrorCatch\obj\Debug\net9.0\refint\ErrorCatch.dll
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\ErrorCatch\obj\Debug\net9.0\ErrorCatch.pdb
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\ErrorCatch\obj\Debug\net9.0\ErrorCatch.genruntimeconfig.cache
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\ErrorCatch\obj\Debug\net9.0\ref\ErrorCatch.dll

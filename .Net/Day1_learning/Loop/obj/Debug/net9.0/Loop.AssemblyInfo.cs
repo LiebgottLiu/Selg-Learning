@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Demo2")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Loop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21ba16e94cc9325131e8b9635cb4fef4ec3cb275")]
-[assembly: System.Reflection.AssemblyProductAttribute("Demo2")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Demo2")]
+[assembly: System.Reflection.AssemblyProductAttribute("Loop")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Loop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // 由 MSBuild WriteCodeFragment 类生成。
