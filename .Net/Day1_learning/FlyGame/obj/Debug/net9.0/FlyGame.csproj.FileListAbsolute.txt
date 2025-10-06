@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\FlyGame\bin\Debug\net9.0\FlyGame.exe
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\FlyGame\bin\Debug\net9.0\FlyGame.deps.json
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\FlyGame\bin\Debug\net9.0\FlyGame.runtimeconfig.json
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\FlyGame\bin\Debug\net9.0\FlyGame.dll
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\FlyGame\bin\Debug\net9.0\FlyGame.pdb
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\FlyGame\obj\Debug\net9.0\FlyGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\FlyGame\obj\Debug\net9.0\FlyGame.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\FlyGame\obj\Debug\net9.0\FlyGame.AssemblyInfo.cs
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\FlyGame\obj\Debug\net9.0\FlyGame.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\FlyGame\obj\Debug\net9.0\FlyGame.sourcelink.json
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\FlyGame\obj\Debug\net9.0\FlyGame.dll
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\FlyGame\obj\Debug\net9.0\refint\FlyGame.dll
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\FlyGame\obj\Debug\net9.0\FlyGame.pdb
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\FlyGame\obj\Debug\net9.0\FlyGame.genruntimeconfig.cache
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\FlyGame\obj\Debug\net9.0\ref\FlyGame.dll

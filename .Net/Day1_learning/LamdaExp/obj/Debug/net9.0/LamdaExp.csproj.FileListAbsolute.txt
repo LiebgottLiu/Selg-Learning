@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\LamdaExp\bin\Debug\net9.0\LamdaExp.exe
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\LamdaExp\bin\Debug\net9.0\LamdaExp.deps.json
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\LamdaExp\bin\Debug\net9.0\LamdaExp.runtimeconfig.json
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\LamdaExp\bin\Debug\net9.0\LamdaExp.dll
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\LamdaExp\bin\Debug\net9.0\LamdaExp.pdb
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\LamdaExp\obj\Debug\net9.0\LamdaExp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\LamdaExp\obj\Debug\net9.0\LamdaExp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\LamdaExp\obj\Debug\net9.0\LamdaExp.AssemblyInfo.cs
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\LamdaExp\obj\Debug\net9.0\LamdaExp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\LamdaExp\obj\Debug\net9.0\LamdaExp.sourcelink.json
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\LamdaExp\obj\Debug\net9.0\LamdaExp.dll
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\LamdaExp\obj\Debug\net9.0\refint\LamdaExp.dll
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\LamdaExp\obj\Debug\net9.0\LamdaExp.pdb
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\LamdaExp\obj\Debug\net9.0\LamdaExp.genruntimeconfig.cache
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\LamdaExp\obj\Debug\net9.0\ref\LamdaExp.dll

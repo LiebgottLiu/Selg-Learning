@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\structure\obj\Debug\net9.0\structure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\structure\obj\Debug\net9.0\structure.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\structure\obj\Debug\net9.0\structure.AssemblyInfo.cs
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\structure\obj\Debug\net9.0\structure.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\structure\obj\Debug\net9.0\structure.sourcelink.json
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\structure\bin\Debug\net9.0\structure.exe
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\structure\bin\Debug\net9.0\structure.deps.json
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\structure\bin\Debug\net9.0\structure.runtimeconfig.json
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\structure\bin\Debug\net9.0\structure.dll
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\structure\bin\Debug\net9.0\structure.pdb
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\structure\obj\Debug\net9.0\structure.dll
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\structure\obj\Debug\net9.0\refint\structure.dll
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\structure\obj\Debug\net9.0\structure.pdb
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\structure\obj\Debug\net9.0\structure.genruntimeconfig.cache
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\structure\obj\Debug\net9.0\ref\structure.dll

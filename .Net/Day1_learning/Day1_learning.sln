@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForLoop", "ForLoop\ForLoop.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LamdaExp", "LamdaExp\LamdaExp.csproj", "{661B02BD-7CEA-450E-84AC-E2EDAF7BE04B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structure", "structure\Structure.csproj", "{C4F270A9-92D7-4393-A6B3-1AF1DDE6021B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlyGame", "FlyGame\FlyGame.csproj", "{8EB0CB1C-35FB-4085-8BDF-D8DEF74C3323}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{661B02BD-7CEA-450E-84AC-E2EDAF7BE04B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{661B02BD-7CEA-450E-84AC-E2EDAF7BE04B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{661B02BD-7CEA-450E-84AC-E2EDAF7BE04B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4F270A9-92D7-4393-A6B3-1AF1DDE6021B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4F270A9-92D7-4393-A6B3-1AF1DDE6021B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4F270A9-92D7-4393-A6B3-1AF1DDE6021B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4F270A9-92D7-4393-A6B3-1AF1DDE6021B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EB0CB1C-35FB-4085-8BDF-D8DEF74C3323}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EB0CB1C-35FB-4085-8BDF-D8DEF74C3323}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EB0CB1C-35FB-4085-8BDF-D8DEF74C3323}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EB0CB1C-35FB-4085-8BDF-D8DEF74C3323}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
