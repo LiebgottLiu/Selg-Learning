@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FlyGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a77104f653dde9eb422c92e835f62c96faf8847")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94b69cf641ed30c8b76eb8aa096bd47ce57364ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("FlyGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FlyGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

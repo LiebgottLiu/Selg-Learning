@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structure", "structure\Stru
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlyGame", "FlyGame\FlyGame.csproj", "{8EB0CB1C-35FB-4085-8BDF-D8DEF74C3323}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectP", "ObjectP\ObjectP.csproj", "{831D7B20-0D04-4081-AEBB-CCC69C9140FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{8EB0CB1C-35FB-4085-8BDF-D8DEF74C3323}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8EB0CB1C-35FB-4085-8BDF-D8DEF74C3323}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8EB0CB1C-35FB-4085-8BDF-D8DEF74C3323}.Release|Any CPU.Build.0 = Release|Any CPU
+		{831D7B20-0D04-4081-AEBB-CCC69C9140FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{831D7B20-0D04-4081-AEBB-CCC69C9140FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{831D7B20-0D04-4081-AEBB-CCC69C9140FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{831D7B20-0D04-4081-AEBB-CCC69C9140FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
