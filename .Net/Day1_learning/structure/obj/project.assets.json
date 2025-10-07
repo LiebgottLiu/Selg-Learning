@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net9.0": {}
+    "net9.0": {
+      "ObjectP/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/ObjectP.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ObjectP.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ObjectP/1.0.0": {
+      "type": "project",
+      "path": "../ObjectP/ObjectP.csproj",
+      "msbuildProject": "../ObjectP/ObjectP.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net9.0": []
+    "net9.0": [
+      "ObjectP >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\user\\.nuget\\packages\\": {},
@@ -14,9 +33,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\Unimelb\\Self_traing\\self-learning\\Selg-Learning\\.Net\\Day1_learning\\structure\\structure.csproj",
-      "projectName": "structure",
-      "projectPath": "C:\\Users\\user\\Desktop\\Unimelb\\Self_traing\\self-learning\\Selg-Learning\\.Net\\Day1_learning\\structure\\structure.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\Unimelb\\Self_traing\\self-learning\\Selg-Learning\\.Net\\Day1_learning\\structure\\Structure.csproj",
+      "projectName": "Structure",
+      "projectPath": "C:\\Users\\user\\Desktop\\Unimelb\\Self_traing\\self-learning\\Selg-Learning\\.Net\\Day1_learning\\structure\\Structure.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\user\\Desktop\\Unimelb\\Self_traing\\self-learning\\Selg-Learning\\.Net\\Day1_learning\\structure\\obj\\",
       "projectStyle": "PackageReference",
@@ -38,7 +57,11 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\user\\Desktop\\Unimelb\\Self_traing\\self-learning\\Selg-Learning\\.Net\\Day1_learning\\ObjectP\\ObjectP.csproj": {
+              "projectPath": "C:\\Users\\user\\Desktop\\Unimelb\\Self_traing\\self-learning\\Selg-Learning\\.Net\\Day1_learning\\ObjectP\\ObjectP.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

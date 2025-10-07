@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ObjectP
 {
-    internal class Person
+    public class Person
     {
         public string _name;
         public int _age;

@@ -13,3 +13,10 @@ C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_
 C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\structure\obj\Debug\net9.0\structure.pdb
 C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\structure\obj\Debug\net9.0\structure.genruntimeconfig.cache
 C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\structure\obj\Debug\net9.0\ref\structure.dll
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\structure\bin\Debug\net9.0\ObjectP.deps.json
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\structure\bin\Debug\net9.0\ObjectP.runtimeconfig.json
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\structure\bin\Debug\net9.0\ObjectP.exe
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\structure\bin\Debug\net9.0\ObjectP.dll
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\structure\bin\Debug\net9.0\ObjectP.pdb
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\structure\obj\Debug\net9.0\Structure.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Unimelb\Self_traing\self-learning\Selg-Learning\.Net\Day1_learning\structure\obj\Debug\net9.0\Structure.csproj.Up2Date

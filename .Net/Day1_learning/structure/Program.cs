@@ -1,4 +1,6 @@
-﻿class Structure {
+﻿using ObjectP;
+
+class Structure {
     static void Main(String[] args) {
         int[] nums = new int[10];
         for (int i = 0; i < nums.Length; i++)
@@ -31,6 +33,10 @@
         //求任意长度数组的最大值
         testc("Lip", 99, 99, 99, 55);
 
+
+        // 引用类
+        Person p = new Person();
+        p.Daily();
         
 
     }
